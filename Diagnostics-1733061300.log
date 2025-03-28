@@ -1,0 +1,545 @@
+ComfyUI Launcher Diagnostic File
+
+Date: 2024-12-01 21:55:10
+Launcher Version: 2.8.10.389
+Data File Version: 2024-11-08 17:00
+ComfyUI Version: d76a04b6ea61306349861a7c4657567507385947 (2024-01-18 08:37:19)
+Working Directory: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1
+------------------------
+System Information: 
+OS: Microsoft Windows NT 10.0.22631.0
+CPU: 8 cores
+Memory Size: 8192 MB
+Page File Size: 9089 MB
+
+NVIDIA Management Library:
+
+CUDA Driver:
+  Not Available
+
+NvApi:
+  Not Available
+
+HIP Driver:
+  Not Available
+
+DirectML Driver: 
+  Devices: 
+    5592 0: AMD Radeon(TM) Vega 8 Graphics 0 GB
+    5592 1: AMD Radeon(TM) Vega 8 Graphics 0 GB
+
+Intel Level Zero Driver:
+  Not Available
+
+------------------------
+Environment Variables: 
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+ProgramFiles(x86)=C:\Program Files (x86)
+SystemDrive=C:
+LOCALAPPDATA=C:\Users\HUA\AppData\Local
+APPDATA=C:\Users\HUA\AppData\Roaming
+OS=Windows_NT
+USERNAME=HUA
+TEMP=C:\Users\HUA\AppData\Local\Temp
+PyCharm Community Edition=d:\Program Files\JetBrains\PyCharm Community Edition 2020.3.3\bin;
+ProgramW6432=C:\Program Files
+SystemRoot=C:\WINDOWS
+ProgramFiles=C:\Program Files
+PROCESSOR_REVISION=1801
+ComSpec=C:\WINDOWS\system32\cmd.exe
+TMP=C:\Users\HUA\AppData\Local\Temp
+PROCESSOR_ARCHITECTURE=AMD64
+PUBLIC=C:\Users\Public
+DriverData=C:\Windows\System32\Drivers\DriverData
+SESSIONNAME=Console
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+CommonProgramFiles=C:\Program Files\Common Files
+PROCESSOR_IDENTIFIER=AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD
+COMPUTERNAME=DESKTOP-L355OUE
+USERPROFILE=C:\Users\HUA
+LOGONSERVER=\\DESKTOP-L355OUE
+WXDRIVE_START_ARGS=--wxdrive-setting=0 --disable-gpu --disable-software-rasterizer --enable-features=NetworkServiceInProcess
+ALLUSERSPROFILE=C:\ProgramData
+OneDrive=C:\Users\HUA\OneDrive
+HOMEPATH=\Users\HUA
+PROCESSOR_LEVEL=23
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+HOMEDRIVE=C:
+USERDOMAIN=DESKTOP-L355OUE
+USERDOMAIN_ROAMINGPROFILE=DESKTOP-L355OUE
+windir=C:\WINDOWS
+Path=C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;D:\python\Scripts\;D:\python\;C:\Users\HUA\AppData\Local\Microsoft\WindowsApps;;d:\Program Files\JetBrains\PyCharm Community Edition 2020.3.3\bin;d:\Users\HUA\AppData\Local\Programs\Fiddler;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps
+NUMBER_OF_PROCESSORS=8
+ProgramData=C:\ProgramData
+EFC_12204=1
+CommonProgramW6432=C:\Program Files\Common Files
+------------------------
+Paths: 
+Python: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\python.exe
+  - Python Paths:
+    - E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\DLLs
+    - E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\lib
+    - E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python
+    - E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\lib\site-packages
+    - E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\lib\site-packages\win32
+    - E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\lib\site-packages\win32\lib
+    - E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\lib\site-packages\Pythonwin
+  - Python Packages:
+    - absl_py 2.0.0 
+    - accelerate 0.23.0 
+    - addict 2.4.0 
+    - aiohttp 3.8.5 
+    - aiosignal 1.3.1 
+    - antlr4_python3_runtime 4.9.3 
+    - anyio 4.2.0 
+    - argostranslate 1.9.1 
+    - async_timeout 4.0.3 
+    - attrs 23.1.0 
+    - beautifulsoup4 4.12.2 
+    - boltons 23.0.0 
+    - certifi 2023.7.22 
+    - cffi 1.16.0 
+    - chardet 5.2.0 
+    - charset_normalizer 3.2.0 
+    - click 8.1.7 
+    - clip_interrogator 0.6.0 
+    - cmake 3.27.7 
+    - colorama 0.4.6 
+    - coloredlogs 15.0.1 
+    - colorlog 6.8.0 
+    - contourpy 1.1.1 
+    - cssselect2 0.7.0 
+    - ctranslate2 3.20.0 
+    - cycler 0.12.1 
+    - deep_translator 1.11.4 
+    - diffusers 0.25.0 
+    - einops 0.6.1 
+    - embreex 2.17.7.post4 
+    - exceptiongroup 1.2.0 
+    - fairscale 0.4.13 
+    - filelock 3.12.4 
+    - flatbuffers 23.5.26 
+    - fonttools 4.43.1 
+    - frozenlist 1.4.0 
+    - fsspec 2023.9.1 
+    - ftfy 6.1.1 
+    - gitdb 4.0.11 
+    - GitPython 3.1.40 
+    - h11 0.14.0 
+    - h2 4.1.0 
+    - hpack 4.0.0 
+    - httpcore 1.0.2 
+    - httpx 0.26.0 
+    - huggingface_hub 0.20.2 
+    - humanfriendly 10.0 
+    - hyperframe 6.0.1 
+    - idna 3.4 
+    - imageio 2.31.5 
+    - importlib_metadata 6.8.0 
+    - Jinja2 3.1.2 
+    - joblib 1.3.2 
+    - jsonschema 4.20.0 
+    - jsonschema_specifications 2023.7.1 
+    - kiwisolver 1.4.5 
+    - lazy_loader 0.3 
+    - llvmlite 0.41.1 
+    - lxml 4.9.3 
+    - mapbox_earcut 1.0.1 
+    - MarkupSafe 2.1.3 
+    - matplotlib 3.8.0 
+    - matrix_client 0.4.0 
+    - mediapipe 0.10.7 
+    - mpmath 1.3.0 
+    - multidict 6.0.4 
+    - networkx 3.1 
+    - numba 0.58.1 
+    - numexpr 2.8.8 
+    - numpy 1.23.5 
+    - omegaconf 2.3.0 
+    - onnxruntime 1.20.1 
+    - onnxruntime_gpu 1.16.3 
+    - opencv_contrib_python 4.8.1.78 
+    - opencv_python 4.8.1.78 
+    - opencv_python_headless 4.7.0.72 
+    - open_clip_torch 2.24.0 
+    - packaging 23.1 
+    - pandas 2.1.3 
+    - piexif 1.1.3 
+    - pilgram 1.2.1 
+    - Pillow 9.5.0 
+    - pip 23.0.1 
+    - platformdirs 3.11.0 
+    - pooch 1.8.0 
+    - portalocker 2.8.2 
+    - protobuf 3.20.3 
+    - psutil 5.9.5 
+    - pycparser 2.21 
+    - PyMatting 1.1.12 
+    - pyparsing 3.1.1 
+    - pyreadline3 3.4.1 
+    - python_dateutil 2.8.2 
+    - pytz 2023.3.post1 
+    - pywavelets 1.5.0 
+    - pywin32 306 
+    - PyYAML 6.0.1 
+    - py_cpuinfo 9.0.0 
+    - referencing 0.30.2 
+    - regex 2023.8.8 
+    - rembg 2.0.52 
+    - reportlab 4.0.6 
+    - requests 2.31.0 
+    - rpds_py 0.12.0 
+    - Rtree 1.1.0 
+    - safetensors 0.3.3 
+    - scikit_image 0.20.0 
+    - scikit_learn 1.3.2 
+    - scipy 1.11.2 
+    - seaborn 0.13.0 
+    - segment_anything 1.0 
+    - sentencepiece 0.1.99 
+    - setuptools 65.5.0 
+    - shapely 2.0.2 
+    - simpleeval 0.9.13 
+    - six 1.16.0 
+    - smmap 5.0.1 
+    - sniffio 1.3.0 
+    - sounddevice 0.4.6 
+    - soupsieve 2.5 
+    - stanza 1.1.1 
+    - svg.path 6.3 
+    - sympy 1.12 
+    - tabulate 0.9.0 
+    - termcolor 2.3.0 
+    - thop 0.1.1.post2209072238 
+    - threadpoolctl 3.2.0 
+    - tifffile 2023.9.26 
+    - timm 0.6.13 
+    - tinycss2 1.2.1 
+    - tokenizers 0.13.3 
+    - tomli 2.0.1 
+    - torch 2.1.2+cu118 
+    - torchsde 0.2.5 
+    - torchvision 0.16.2+cu118 
+    - tqdm 4.66.1 
+    - trampoline 0.1.2 
+    - transformers 4.26.1 
+    - trimesh 4.0.9 
+    - typing_extensions 4.8.0 
+    - tzdata 2023.3 
+    - ultralytics 8.0.223 
+    - urllib3 1.26.18 
+    - vhacdx 0.0.5 
+    - wcwidth 0.2.8 
+    - webencodings 0.5.1 
+    - xformers 0.0.23.post1+cu118 
+    - xxhash 3.4.1 
+    - yacs 0.1.8 
+    - yapf 0.40.2 
+    - yarl 1.9.2 
+    - zipp 3.17.0 
+    - cstr 0.1.0 
+    - ffmpy 0.3.0 
+    - fvcore 0.1.5.post20221221 
+    - googletrans_py 4.0.0 
+    - img2texture 1.0.6 
+    - iopath 0.1.10 
+    - pycollada 0.8 
+    - sacremoses 0.0.53 
+    - svglib 1.5.1 
+Git: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\git\cmd\git.exe
+Shell: C:\WINDOWS\system32\cmd.exe
+Cache Path: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\.cache
+------------------------
+Engine Validator: 
+PyTorch: 2.1.2+cu118 C(11080)___
+OnnxRuntime: CPU
+------------------------
+Port Info: 
+Exclusion List:
+  Non-administered:
+    
+  Administered:
+    
+In Use (v4):
+  80 => 4776
+  135 => 1552
+  139 => 4
+  445 => 4
+  1080 => 7264
+  3306 => 5152
+  5040 => 9156
+  8475 => 21684
+  8588 => 4944
+  8680 => 14128
+  10000 => 14816
+  13013 => 14128
+  13016 => 14128
+  16308 => 5200
+  27017 => 8
+  49664 => 1240
+  49665 => 1064
+  49666 => 2628
+  49667 => 2996
+  49675 => 4388
+  49690 => 5200
+  49710 => 1216
+  57275 => 20472
+  65123 => 7496
+In Use (v6):
+  80 => 4776
+  135 => 1552
+  445 => 4
+  49664 => 1240
+  49665 => 1064
+  49666 => 2628
+  49667 => 2996
+  49675 => 4388
+  49710 => 1216
+------------------------
+Config: 
+Audience Type: 新手
+Engine: CPU [2]
+VRAM Optimization: Auto [Auto]
+Port: 8188 [8188]
+XAttn Optimization: SubQuad [SubQuad]
+CPU VAE: False [False]
+Upcast Attention: True [True]
+Precision: Fp32 [Fp32]
+Text Encoder Precision: Auto [Auto]
+UNet Precision: Auto [Auto]
+VAE Precision: Auto [Auto]
+Force Channels Last: False [False]
+Preview Method: Auto [Auto]
+Smart Memory: True [True]
+Deterministic: False [False]
+Multi User: False [False]
+Fast: False [False]
+Listen: False [False]
+Server Name:  []
+HF Offline Mode: False [False]
+Cuda Allocator Backend: Native [Native]
+Prevent Sysmem Fallback: False
+Extra Args: 
+------------------------
+Network Preferences: 
+Proxy Address: 
+Proxy Git: False
+Proxy Pip: False
+Proxy Model Download: False
+Proxy Env: False
+Mirror Pypi: True
+Mirror Git: True
+Mirror ExtensionList: True
+Mirror Huggingface: True
+Github Acceleration: False
+------------------------
+Log: 
+** ComfyUI startup time: 2024-12-01 21:37:31.077345
+** Platform: Windows
+** Python version: 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)]
+** Python executable: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\python.exe
+** Log path: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\comfyui.log
+[ComfyUI-Manager] Windows event loop policy mode enabled
+
+Prestartup times for custom nodes:
+   0.0 seconds:
+ 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Marigold
+   0.0 seconds: 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Manager
+
+Total VRAM 7104 MB, total RAM 7104 MB
+Forcing FP32, if this improves things please report it.
+
+Set vram state to: DISABLED
+
+Device:
+ 
+cpu
+
+VAE dtype:
+ torch.float32
+Using sub quadratic optimization for cross attention, if you have memory or speed issues try using: --use-split-cross-attention
+### Loading: ComfyUI-Impact-Pack (V4.66)
+
+### Loading: ComfyUI-Impact-Pack (Subpack: V0.4)
+### Loading: ComfyUI-Inspire-Pack (V0.59)
+
+[Impact Pack] Wildcards loading done.
+
+### Loading: ComfyUI-Manager (V2.2.3)
+
+### ComfyUI Revision: 1917 [d76a04b6] | Released on '2024-01-17'
+FETCH DATA from: https://gitcode.net/ranting8323/ComfyUI-Manager/-/raw/main/custom-node-list.json
+
+FETCH DATA from: https://gitcode.net/ranting8323/ComfyUI-Manager/-/raw/main/extension-node-map.json
+
+FETCH DATA from: https://gitcode.net/ranting8323/ComfyUI-Manager/-/raw/main/model-list.json
+FETCH DATA from: https://gitcode.net/ranting8323/ComfyUI-Manager/-/raw/main/alter-list.json
+
+Exception in thread 
+Thread-9 (<lambda>)
+:
+Traceback (most recent call last):
+  File "E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\lib\threading.py", line 1016, in _bootstrap_inner
+    
+self.run()
+
+  File "<enhanced_experience vendors.sentry_sdk.integrations.threading>", line 99, in run
+  File "<enhanced_experience vendors.sentry_sdk.integrations.threading>", line 94, in _run_old_run_func
+  File "<enhanced_experience vendors.sentry_sdk.utils>", line 1649, in reraise
+  File "<enhanced_experience vendors.sentry_sdk.integrations.threading>", line 92, in _run_old_run_func
+  File "E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\lib\threading.py", line 953, in run
+    
+self._target(*self._args, **self._kwargs)
+
+  File "E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Manager\__init__.py", line 2334, in <lambda>
+    
+threading.Thread(target=lambda: asyncio.run(default_cache_update())).start()
+
+  File "E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\lib\asyncio\runners.py", line 44, in run
+    
+return loop.run_until_complete(main)
+
+  File "E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\lib\asyncio\base_events.py", line 649, in run_until_complete
+    
+return future.result()
+
+  File "E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Manager\__init__.py", line 2332, in default_cache_update
+    
+await asyncio.gather(a, b, c, d)
+
+  File "E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Manager\__init__.py", line 2320, in get_cache
+    
+json_obj = await get_data(uri)
+
+  File "E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Manager\__init__.py", line 537, in get_data
+    
+json_obj = json.loads(json_text)
+
+  File "E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\lib\json\__init__.py", line 346, in loads
+    
+return _default_decoder.decode(s)
+
+  File "E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\lib\json\decoder.py", line 337, in decode
+    
+obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+
+  File "E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\python\lib\json\decoder.py", line 355, in raw_decode
+    
+raise JSONDecodeError("Expecting value", s, err.value) from None
+
+json.decoder
+.
+JSONDecodeError
+: 
+Expecting value: line 1 column 1 (char 0)
+
+### Loading: Workspace Manager (V1.0.0)
+
+------------------------------------------
+[34mComfyroll Studio v1.74 : [92m 175 Nodes Loaded[0m
+
+------------------------------------------
+** For changes, please see patch notes at https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes/blob/main/Patch_Notes.md
+** For help, please see the wiki at https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes/wiki
+------------------------------------------
+[36;20m[comfyui_controlnet_aux] | INFO -> Using ckpts path: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\comfyui_controlnet_aux\ckpts[0m
+[36;20m[comfyui_controlnet_aux] | INFO -> Using symlinks: False[0m
+[36;20m[comfyui_controlnet_aux] | INFO -> Using ort providers: ['CUDAExecutionProvider', 'DirectMLExecutionProvider', 'OpenVINOExecutionProvider', 'ROCMExecutionProvider', 'CPUExecutionProvider', 'CoreMLExecutionProvider'][0m
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\comfyui_controlnet_aux\node_wrappers\dwpose.py:26: UserWarning: DWPose: Onnxruntime not found or doesn't come with acceleration providers, switch to OpenCV with CPU device. DWPose might run very slowly
+  warnings.warn("DWPose: Onnxruntime not found or doesn't come with acceleration providers, switch to OpenCV with CPU device. DWPose might run very slowly")
+[1;35m### [START] ComfyUI AlekPet Nodes ###[0m
+[92mNode -> ArgosTranslateNode [Loading][0m
+
+[92mNode -> ExtrasNode [Loading][0m
+[92mNode -> PainterNode [Loading][0m
+[92mNode -> PoseNode [Loading][0m
+[92mNode -> TranslateNode [Loading][0m
+[1;35m### [END] ComfyUI AlekPet Nodes ###[0m
+
+[34mFizzleDorf Custom Nodes: [92mLoaded[0m
+
+[36mEfficiency Nodes:[0m Attempting to add Control Net options to the 'HiRes-Fix Script' Node (comfyui_controlnet_aux add-on)...[92mSuccess![0m
+Patching UNetModel.forward
+
+UNetModel.forward has been successfully patched.
+
+[1;32m[Power Noise Suite]: 🦚🦚🦚 [93m[3mkweh..[0m 🦚🦚🦚
+
+[1;32m[Power Noise Suite]:[0m Tamed [93m11[0m wild nodes.
+
+[34mWAS Node Suite: [0mOpenCV Python FFMPEG support is enabled[0m
+[34mWAS Node Suite [93mWarning: [0m`ffmpeg_bin_path` is not set in `E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\was-node-suite-comfyui\was_suite_config.json` config file. Will attempt to use system ffmpeg binaries if available.[0m
+[34mWAS Node Suite: [0mFinished.[0m [32mLoaded[0m [0m204[0m [32mnodes successfully.[0m
+
+	[3m[93m"Art is the stored honey of the human soul."[0m[3m - Theodore Dreiser[0m
+
+Import times for custom nodes:
+
+   0.0 seconds:
+ 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\AIGODLIKE-ComfyUI-Translation
+
+   0.0 seconds:
+ 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\FreeU_Advanced
+   0.0 seconds:
+ 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\comfyui-workspace-manager
+
+   0.0 seconds:
+ 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ControlNet-LLLite-ComfyUI
+
+   0.0 seconds:
+ 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI_experiments
+
+   0.0 seconds:
+ 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI_TiledKSampler
+   0.0 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI_IPAdapter_plus
+   0.0 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\PowerNoiseSuite
+   0.0 seconds:
+ 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\images-grid-comfy-plugin
+
+   0.1 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Advanced-ControlNet
+   0.1 seconds:
+ 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI_UltimateSDUpscale
+
+   0.1 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\Derfuu_ComfyUI_ModdedNodes
+   0.2 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Custom-Scripts
+   0.2 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Inspire-Pack
+   0.2 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\efficiency-nodes-comfyui
+   0.3 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI_Comfyroll_CustomNodes
+   0.4 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-WD14-Tagger
+   1.4 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\comfyui_controlnet_aux
+   2.7 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Marigold
+   3.2 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Manager
+   3.4 seconds: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI_FizzNodes
+
+  10.1 seconds:
+ 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Impact-Pack
+
+  13.3 seconds: 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\was-node-suite-comfyui
+
+  17.9 seconds:
+ 
+E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI_Custom_Nodes_AlekPet
+
+Starting server
+
+To see the GUI go to: http://127.0.0.1:8188
+
+FETCH DATA from: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Manager\extension-node-map.json
+
+FETCH DATA from: E:\ComfyUI-aki\ComfyUI-aki-v1.1\ComfyUI-aki-v1.1\custom_nodes\ComfyUI-Manager\extension-node-map.json
+[Exited, code -1 (0xFFFFFFFF)]
+------------------------
+Fault Traceback: 
+Not Available
